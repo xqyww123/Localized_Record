@@ -1,0 +1,10 @@
+[submodule "worktrees/Isabelle2025-2-localized_record"]
+	path = worktrees/Isabelle2025-2-localized_record
+	url = https://github.com/xqyww123/isabelle-patched.git
+	branch = Isabelle2025-2/localized_record
+	base = Isabelle2025-2/local_type_abbrev
+	ignore = all
+[submodule "worktrees/Isabelle2025-2-localized_record-stock"]
+	path = worktrees/Isabelle2025-2-localized_record-stock
+	url = https://github.com/xqyww123/isabelle-patched.git
+	ignore = all
